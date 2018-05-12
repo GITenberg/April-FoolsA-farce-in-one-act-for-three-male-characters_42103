@@ -1,0 +1,24 @@
+_repo: April-FoolsA-farce-in-one-act-for-three-male-characters_42103
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chapman, W. F.
+    gutenberg_agent_id: '41522'
+    url: http://www.gutenberg.org/2009/agents/41522
+description: ''
+gutenberg_issued: '2013-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42103'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American drama -- 19th century'
+title: 'April Fools: A farce in one act for three male characters'
+url: http://www.gutenberg.org/ebooks/42103
