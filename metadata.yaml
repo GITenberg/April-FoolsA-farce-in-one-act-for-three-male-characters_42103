@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41522'
     url: http://www.gutenberg.org/2009/agents/41522
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42103#April-FoolsA-farce-in-one-act-for-three-male-characters
 gutenberg_issued: '2013-02-16'
 gutenberg_type: Text
 identifiers:
